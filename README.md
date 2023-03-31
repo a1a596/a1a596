@@ -23,12 +23,13 @@ Sou um desenvolvedor com conhecimentos em HTML5, CSS, JavaScript e Java, e atual
 - 🤖 Adquiri habilidades valiosas em resolução de problemas e trabalho em equipe durante o estágio realizado da empresa A5 Desenvolvimento de aplicativos.
 - 🎓 Estou comprometido em obter várias certificações através das plataformas de cursos online. Busco oportunidades que me permitam aplicar minhas habilidades em projetos desafiadores e contribuir para o sucesso e a segurança dos projetos.
   ## Estou aprendendo
-            <img  height="100em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  
+  <p>
+  <img  height="100em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  </p>
  
 <div>
 ## Ferramentas e Tecnologias
-<p align="center">
+<p >
   <img  height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img  height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
   <img  height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
