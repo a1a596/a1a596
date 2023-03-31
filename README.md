@@ -16,7 +16,7 @@ Sou um desenvolvedor com conhecimentos em HTML5, CSS, JavaScript, Java, Firebase
 - 💻 Tenho mais interesse em desenvolvimento front-end com HTML5, CSS e JavaScript.
 - 🐍 Atualmente estou estudando React e estou animado para aprender mais sobre suas aplicações e possibilidades.
 - 🌟 Estou sempre buscando me atualizar e melhorar minhas habilidades como desenvolvedor(a).
-- 🏢 Possuo experiência em desenvolvimento com HTML5 e Banco de Dados Firebase na plataforma de estudos Udemy. 
+- 🏢 Adquiri experiência em desenvolvimento com HTML5 e Banco de Dados Firebase na plataforma de estudos Udemy. 
 - 🤖 Adquiri habilidades valiosas em resolução de problemas e trabalho em equipe durante o estágio realizado da empresa A5 Desenvolvimento de aplicativos.
 - 🎓 Estou comprometido em obter várias certificações através das plataformas de cursos online. Busco oportunidades que me permitam aplicar minhas habilidades em projetos desafiadores e contribuir para o sucesso e a segurança dos projetos.
 
