@@ -19,13 +19,15 @@ Sou um desenvolvedor com conhecimentos em HTML5, CSS, JavaScript e Java, e atual
 - 🏢 Possuo experiência em desenvolvimento com HTML5 e Banco de Dados Firebase na plataforma de estudos Udemy. 
 - 🤖 Adquiri habilidades valiosas em resolução de problemas e trabalho em equipe durante o estágio realizado da empresa A5 Desenvolvimento de aplicativos.
 - 🎓 Estou comprometido em obter várias certificações através das plataformas de cursos online. Busco oportunidades que me permitam aplicar minhas habilidades em projetos desafiadores e contribuir para o sucesso e a segurança dos projetos.
+- 
 ## Estou aprendendo
   <p>
   <img  height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   </p>
+  
 ## Ferramentas e Tecnologias
-<div>
 
+<div>
 <p >
   <img  height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img  height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
