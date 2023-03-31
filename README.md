@@ -2,7 +2,7 @@
 ## Contatos:
 <div>
 
-  <p align="center">
+  <p>
 <a href="https://www.instagram.com/giovani.pilo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://api.whatsapp.com/send?phone=5564999447268" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 <a href = "mailto:jovanim-pdr@hotmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -19,7 +19,7 @@ Sou um desenvolvedor com conhecimentos em HTML5, CSS, JavaScript e Java, e atual
 - 🏢 Possuo experiência em desenvolvimento com HTML5 e Banco de Dados Firebase na plataforma de estudos Udemy. 
 - 🤖 Adquiri habilidades valiosas em resolução de problemas e trabalho em equipe durante o estágio realizado da empresa A5 Desenvolvimento de aplicativos.
 - 🎓 Estou comprometido em obter várias certificações através das plataformas de cursos online. Busco oportunidades que me permitam aplicar minhas habilidades em projetos desafiadores e contribuir para o sucesso e a segurança dos projetos.
-  ## Estou aprendendo
+## Estou aprendendo
   <p>
   <img  height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   </p>
