@@ -10,7 +10,7 @@
 </div>
   </p>
 
-Sou um desenvolvedor com conhecimentos em HTML5, CSS, JavaScript e Java, e atualmente estou aperfeiçoando meu conhecimento sobre programação WEB. Aqui está um pouco sobre mim:
+Sou um desenvolvedor com conhecimentos em HTML5, CSS, JavaScript, Java, Firebase, MySQL, Programação Android com Java, e atualmente estou aperfeiçoando meu conhecimento sobre programação WEB. Aqui está um pouco sobre mim:
 
 - 🚀 Tenho 5 anos de experiência em desenvolvimento de software.
 - 💻 Tenho mais interesse em desenvolvimento front-end com HTML5, CSS e JavaScript.
@@ -34,6 +34,8 @@ Sou um desenvolvedor com conhecimentos em HTML5, CSS, JavaScript e Java, e atual
   <img  height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img  height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img  height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" />
+          
        
 </p>
 <a href="https://github.com/a1a596">
